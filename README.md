@@ -11,3 +11,5 @@ En este proyecto se utilzará:
 
 Proximamente se subiran instrucciones de montaje.
 
+Se utilizaran las librerias AFMotor para controlar el motorshield y NewPing
+ para mediciones del sensor ultrasónico.
